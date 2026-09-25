@@ -2,10 +2,6 @@
 
 **scDEAN: A Lightweight Adaptive Fusion Model for Clustering scRNA-seq Data**
 
-Subhashis Chatterjee, Rohit Bose
-
-Department of Mathematics and Computing, Indian Institute of Technology (ISM) Dhanbad
-
 Official implementation of scDEAN, a deep clustering framework that integrates gene-expression
 and cell–cell topological information through a lightweight softmax-gated dual-encoder fusion,
 and formulates clustering as a differentiable centroid-optimisation task decoupled from
@@ -212,5 +208,4 @@ Released under the MIT License - see [LICENSE](LICENSE).
 
 ## Contact
 
-Rohit Bose — rohitbose269@gmail.com
-Subhashis Chatterjee — subhashis@iitism.ac.in
+Rohit Bose - rohitbose269@gmail.com
