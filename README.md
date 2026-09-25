@@ -3,6 +3,7 @@
 **scDEAN: A Lightweight Adaptive Fusion Model for Clustering scRNA-seq Data**
 
 Subhashis Chatterjee, Rohit Bose
+
 Department of Mathematics and Computing, Indian Institute of Technology (ISM) Dhanbad
 
 Official implementation of scDEAN, a deep clustering framework that integrates gene-expression
@@ -71,6 +72,11 @@ pip install -r requirements.txt
 
 > `torch-geometric` supplies `GCNConv`, used by `scdean/layers.py`. Install it *after*
 > PyTorch and match the CUDA build, otherwise the GCN branch will fail to import.
+
+---
+
+## scDEAN architecture
+![scDEAN architecture](scDEAN_model_updated_new.pdf)
 
 ---
 
