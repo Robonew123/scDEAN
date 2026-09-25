@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ---
 
 ## scDEAN architecture
-![scDEAN architecture](scDEAN_model_updated_new.pdf)
+![scDEAN architecture](scDEAN_model_updated_new.jpg)
 
 ---
 
