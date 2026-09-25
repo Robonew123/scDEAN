@@ -76,15 +76,7 @@ pip install -r requirements.txt
 
 ## Data
 
-Place each dataset under `--base_path` (default `./data`) in one of two layouts:
-
-```
-data/
-├── Camp.h5                     # --data_type .h5   (expects f['X'] and f['obs/Group'])
-└── Camp/                       # --data_type .csv
-    ├── data.csv                #   cells x genes, first column = index
-    └── label.csv               #   cell labels, first column = index
-```
+For reproducibility, the exact processed versions of the datasets used in this study are additionally available at [Figshare](https://doi.org/10.6084/m9.figshare.33273690). The original datasets remain the property of and are credited to their respective authors and repositories.
 
 All datasets used in the paper are publicly available:
 
